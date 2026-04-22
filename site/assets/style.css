@@ -32,22 +32,6 @@ body {
     position: relative;
 }
 
-.hero-text {
-    position: absolute;
-    top: 5%;
-    left: 5%;
-    color: #fff;
-    font-family: 'Yuji Syuku';
-    font-size: clamp(20px, 4vw, 3rem);
-}
-
-.hero-badge {
-    position: absolute;
-    bottom: 5%;
-    right: 5%;
-    width: clamp(80px, 15vw, 200px);
-}
-
 /* Menu */
 .menu {
     background: url("images/menu-bg.jpg") center/cover no-repeat;
